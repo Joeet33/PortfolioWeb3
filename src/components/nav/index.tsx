@@ -11,7 +11,7 @@ export const Nav = () => {
   return (
     <NavContainer>
       <FlexBox1>
-        <a href={ROUTER_PATHS.BROWSE}>Buidl</a>
+        <a href={ROUTER_PATHS.BROWSE}>Portfolio</a>
       </FlexBox1>
 <FlexBox2>
   {user && user.attributes.walletType === "users" ? <div>User</div>

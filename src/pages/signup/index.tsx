@@ -4,7 +4,7 @@ import { SignupContainer, StyledTitle } from "./index.style";
 export const Signup = () => {
   return (
     <SignupContainer>
-      <StyledTitle>Buidl</StyledTitle>
+      <StyledTitle>Portfolio</StyledTitle>
       <ConnectForm />
     </SignupContainer>
   );
