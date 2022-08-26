@@ -23,7 +23,7 @@ export const DisplayContactForm = () => {
             <DisplayTwitter />
           ) : (
             <StyledContacts>
-              <img src={twitter}></img>
+              <img src={"https://assets.stickpng.com/thumbs/58e9196deb97430e819064f6.png"}></img>
               <div>Twitter</div>
             </StyledContacts>
           )}
